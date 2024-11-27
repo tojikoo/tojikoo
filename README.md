@@ -1,4 +1,4 @@
-# :comet: Welcome to my Github page
+# :comet: Hi, I'm Luka
 🔭 Actually working on my_top, my_hunter and organized.<br>🎓 First year at Epitech school.<br>📫 How to contact me : luka.moreau@epitech.eu<br>🐉 Average fan of Dragon Ball Z.
 
 
