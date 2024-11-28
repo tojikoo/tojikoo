@@ -9,7 +9,7 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 <a href="https://www.kali.org">
-  <img src="https://img.shields.io/badge/Kali-white?style=for-the-badge&logo=kalilinux&logoColor=white&color=black" style="width: 90px;">
+  <img src="https://img.shields.io/badge/Kali-white?style=for-the-badge&logo=kalilinux&logoColor=white&color=black" style="width: 75px;">
 </a>
 <a href="https://ubuntu.com">
   <img src="https://img.shields.io/badge/Ubuntu-white?style=for-the-badge&logo=ubuntu&logoColor=white&color=orange" style="width: 90px;">
