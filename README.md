@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Kali-white?logo=kalilinux&logoColor=white&color=black" style="width: 70px;">
 </a>
 <a href="https://ubuntu.com">
-  <img src="https://img.shields.io/badge/Ubuntu-white?logo=ubuntu&logoColor=white&color=orange" style="width: 70px;">
+  <img src="https://img.shields.io/badge/Ubuntu-white?logo=ubuntu&logoColor=white&color=orange" style="width: 100px;">
 </a>
 
 
