@@ -8,7 +8,7 @@
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![kakali](https://img.shields.io/badge/Kali-white?style=for-the-badge&logo=kalilinux&logoColor=white&color=black)
+[![kakali](https://img.shields.io/badge/Kali-white?style=for-the-badge&logo=kalilinux&logoColor=white&color=black)](https://kali.org)
 [![bubuntu](https://img.shields.io/badge/Ubuntu-white?style=for-the-badge&logo=ubuntu&logoColor=white&color=orange)](https://ubuntu.com)
 
 
