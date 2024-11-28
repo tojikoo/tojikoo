@@ -11,6 +11,10 @@
 <a href="https://www.kali.org">
   <img src="https://img.shields.io/badge/Kali-white?logo=kalilinux&logoColor=white&color=black" style="width: 70px;">
 </a>
+<a href="https://ubuntu.com">
+  <img src="https://img.shields.io/badge/Ubuntu-white?logo=ubuntu&logoColor=white&color=orange" style="width: 70px;">
+</a>
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=tojikoo&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
