@@ -1,5 +1,8 @@
 # :comet: Hi, I'm Luka
-🔭 Actually working on my_top, my_hunter and organized.<br>🎓 First year at Epitech school.<br>📫 How to contact me : luka.moreau@epitech.eu<br>🐉 Average fan of Dragon Ball Z.
+- 🔭 Actually working on my_top, my_hunter and organized.
+- 🎓 First year at Epitech school.
+- 📫 How to contact me : luka.moreau@epitech.eu
+- 🐉 Average fan of Dragon Ball Z.
 
 
 # 💻 Tech Stack:
