@@ -2,7 +2,7 @@
 - 🔭 Actually working on __my_top__, __my_hunter__ and __organized__.
 - 🎓 First year at __Epitech school__.
 - 📫 How to contact me : luka.moreau@epitech.eu
-- 🐉 Average fan of __Dragon Ball Z__.
+- 🌏 I speak __French__, __English__ and __Japanese__.
 
 
 # 💻 Tech Stack:
