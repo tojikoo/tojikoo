@@ -16,7 +16,6 @@
 
 # 📊 GitHub Stats:
 <p align="center">
-   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=tojikoo&theme=dark&hide_border=false&include_all_commits=true&count_private=true"/>
    <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tojikoo&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact"/>
 </p>
 
